@@ -52,7 +52,7 @@ canvas{
   /* bring your own prefixes */
   transform: translate(-50%, -50%);
   /* width: 10rem; */
-  color: #000000;
+  color: #ffffff;
   font-size: .8em;
   text-align: left;
   text-indent: 4px;
@@ -65,7 +65,7 @@ canvas{
 .info {
   padding-top: 1rem;
   margin-top: 1rem;
-  background: #ffffff;
+  background: rgba(0, 0, 0, 0.5);
   font-size: 1.1rem;
   border-radius: 1rem;
 }
